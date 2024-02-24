@@ -1,0 +1,2 @@
+﻿// Fields - yak namud verreble mebosha ki boyad hamavaqt private bosha berun ay classi xdsh dostuptiy nabosha
+// Properties - yak namud verreble public  mebosha ki hamajoda boyad dostupniy bosha va 2metod dora Get{}-return mekna Set{}-znachenie metiem

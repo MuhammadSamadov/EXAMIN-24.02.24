@@ -1,0 +1,1 @@
+﻿// Konstruktor - yak namud methodi maxsuse mebosha ki baroi insilayz kardani Field-oi mo mebosha va Konstruktor boyad hamnomi Class bosha 
